@@ -8,7 +8,7 @@ Instead of creating and destroying new objects all the time, this script reduces
 Demo
 ====
 
-Take a look on [live demo](https://rawgithub.com/joaokucera/unity-pooling/demo/demo.html).
+Take a look on [live demo](https://rawgit.com/joaokucera/unity-pooling/master/demo/demo.html).
 
 How to use
 ==========
